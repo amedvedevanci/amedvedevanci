@@ -17,7 +17,7 @@ I have just completed my Certificate in Computing at NCI and am excited to keep 
     <li>Python</li>
     <li>HTML</li>
     <li>CSS</li>
-    <li>JavaScript</li>
+    <li>JavaScript (Basic)</li>
   </ul>
 </details>
 </br>
